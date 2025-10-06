@@ -33,6 +33,14 @@ A continuación, una breve descripción de cada carpeta:
 
 ---
 
+## Endpoints
+
+| Método |       Path                  | Utilidad                    | 
+| ------ | --------------------------- | --------------------------- |
+| POST   | /api/transaction            | Creación de transacción     |
+| POST   | /api/admin/login            | Inicio de sesión            |
+| GET    | /api/admin/viewtransactions | Ver todas las transacciones |
+
 ## 🚀 Instalación y ejecución
 
 ### Requisitos previos
